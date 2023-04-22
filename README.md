@@ -6,51 +6,51 @@ A template for you to record which English football grounds you have watched gam
 
 # English Premier League
 
-- [ ] Arsenal
+- [x] Arsenal
 - [ ] Aston Villa
-- [ ] Bournemouth
-- [ ] Brentford
-- [ ] Brighton
-- [ ] Chelsea
-- [ ] Crystal Palace
+- [x] Bournemouth
+- [x] Brentford
+- [x] Brighton
+- [x] Chelsea
+- [x] Crystal Palace
 - [ ] Everton
-- [ ] Fulham
+- [x] Fulham
 - [ ] Leeds
-- [ ] Leicester
-- [ ] Liverpool
-- [ ] Man City
+- [x] Leicester
+- [x] Liverpool
+- [x] Man City
 - [ ] Man Utd
 - [ ] Newcastle
-- [ ] Nott'm Forest
-- [ ] Southampton
-- [ ] Tottenham
-- [ ] West Ham
+- [x] Nott'm Forest
+- [x] Southampton
+- [x] Tottenham
+- [x] West Ham
 - [ ] Wolverhampton
 
 # English Championship
 
 - [ ] Birmingham
 - [ ] Blackburn
-- [ ] Blackpool
-- [ ] Bristol City
+- [x] Blackpool
+- [x] Bristol City
 - [ ] Burnley
 - [ ] Cardiff
-- [ ] Coventry
-- [ ] Huddersfield
+- [x] Coventry
+- [x] Huddersfield
 - [ ] Hull
-- [ ] Luton
+- [x] Luton
 - [ ] Middlesbrough
-- [ ] Millwall
-- [ ] Norwich
-- [ ] Preston
-- [ ] QPR
-- [ ] Reading
-- [ ] Rotherham
+- [x] Millwall
+- [x] Norwich
+- [x] Preston
+- [x] QPR
+- [x] Reading
+- [x] Rotherham
 - [ ] Sheffield Utd
 - [ ] Stoke
-- [ ] Sunderland
+- [x] Sunderland
 - [ ] Swansea
-- [ ] Watford
+- [x] Watford
 - [ ] West Brom
 - [ ] Wigan
 
@@ -59,80 +59,80 @@ A template for you to record which English football grounds you have watched gam
 - [ ] Accrington Stanley
 - [ ] Barnsley
 - [ ] Bolton
-- [ ] Bristol Rovers
+- [x] Bristol Rovers
 - [ ] Burton Albion
-- [ ] Cambridge Utd
-- [ ] Charlton
-- [ ] Cheltenham
-- [ ] Derby
-- [ ] Exeter
+- [x] Cambridge Utd
+- [x] Charlton
+- [x] Cheltenham
+- [x] Derby
+- [x] Exeter
 - [ ] Fleetwood Town
-- [ ] Forest Green
-- [ ] Ipswich
-- [ ] Lincoln City
-- [ ] MK Dons
+- [x] Forest Green
+- [x] Ipswich
+- [x] Lincoln City
+- [x] MK Dons
 - [ ] Morecambe
-- [ ] Oxford Utd
-- [ ] Peterborough
-- [ ] Plymouth
-- [ ] Port Vale
-- [ ] Portsmouth
-- [ ] Sheff Wed
-- [ ] Shrewsbury
-- [ ] Wycombe
+- [x] Oxford Utd
+- [x] Peterborough
+- [x] Plymouth
+- [x] Port Vale
+- [x] Portsmouth
+- [x] Sheff Wed
+- [x] Shrewsbury
+- [x] Wycombe
 
 # League Two
 
-- [ ] AFC Wimbledon
+- [x] AFC Wimbledon
 - [ ] Barrow
-- [ ] Bradford
+- [x] Bradford
 - [ ] Carlisle
-- [ ] Colchester
-- [ ] Crawley Town
-- [ ] Crewe
+- [x] Colchester
+- [x] Crawley Town
+- [x] Crewe
 - [ ] Doncaster
-- [ ] Gillingham
-- [ ] Grimsby
+- [x] Gillingham
+- [x] Grimsby
 - [ ] Harrogate Town
-- [ ] Hartlepool
-- [ ] Leyton Orient
-- [ ] Mansfield
-- [ ] Newport County
-- [ ] Northampton
-- [ ] Rochdale
+- [x] Hartlepool
+- [x] Leyton Orient
+- [x] Mansfield
+- [x] Newport County
+- [x] Northampton
+- [x] Rochdale
 - [ ] Salford
-- [ ] Stevenage
-- [ ] Stockport
-- [ ] Sutton Utd
-- [ ] Swindon
-- [ ] Tranmere
+- [x] Stevenage
+- [x] Stockport
+- [x] Sutton Utd
+- [x] Swindon
+- [x] Tranmere
 - [ ] Walsall
 
 # National League
 
-- [ ] Aldershot
+- [x] Aldershot
 - [ ] Altrincham
-- [ ] Barnet
-- [ ] Boreham Wood
-- [ ] Bromley
-- [ ] Chesterfield
-- [ ] Dagenham
-- [ ] Dorking Wanderers
-- [ ] Eastleigh
-- [ ] FC Halifax
+- [x] Barnet
+- [x] Boreham Wood
+- [x] Bromley
+- [x] Chesterfield
+- [x] Dagenham
+- [x] Dorking Wanderers
+- [x] Eastleigh
+- [x] FC Halifax
 - [ ] Gateshead
-- [ ] Maidenhead Utd
+- [x] Maidenhead Utd
 - [ ] Maidstone United
-- [ ] Notts County
+- [x] Notts County
 - [ ] Oldham
-- [ ] Scunthorpe
+- [x] Scunthorpe
 - [ ] Solihull Moors
-- [ ] Southend
-- [ ] Torquay
-- [ ] Wealdstone
-- [ ] Woking
+- [x] Southend
+- [x] Torquay
+- [x] Wealdstone
+- [x] Woking
 - [ ] Wrexham
-- [ ] Yeovil
+- [x] Yeovil
 - [ ] York
 
 # National League North
@@ -142,19 +142,19 @@ A template for you to record which English football grounds you have watched gam
 - [ ] Alfreton Town
 - [ ] Banbury Utd
 - [ ] Blyth Spartans
-- [ ] Boston Utd
+- [x] Boston Utd
 - [ ] Brackley
 - [ ] Bradford PA
 - [ ] Buxton
-- [ ] Chester
+- [x] Chester
 - [ ] Chorley
 - [ ] Curzon Ashton
-- [ ] Darlington
+- [x] Darlington
 - [ ] Farsley Celtic
-- [ ] Gloucester
+- [x] Gloucester
 - [ ] Hereford
 - [ ] Kettering
-- [ ] Kidderminster
+- [x] Kidderminster
 - [ ] Kings Lynn Town
 - [ ] Leamington
 - [ ] Peterborough Sports
@@ -164,18 +164,18 @@ A template for you to record which English football grounds you have watched gam
 
 # National League South
 
-- [ ] Bath City
-- [ ] Braintree Town
+- [x] Bath City
+- [x] Braintree Town
 - [ ] Chelmsford
 - [ ] Cheshunt
 - [ ] Chippenham
 - [ ] Concord Rangers
-- [ ] Dartford
-- [ ] Dover
+- [x] Dartford
+- [x] Dover
 - [ ] Dulwich Hamlet
 - [ ] Eastbourne Boro
-- [ ] Ebbsfleet United
-- [ ] Farnborough
+- [x] Ebbsfleet United
+- [x] Farnborough
 - [ ] Hampton and Richmond
 - [ ] Havant and Waterlooville
 - [ ] Hemel
@@ -189,7 +189,7 @@ A template for you to record which English football grounds you have watched gam
 - [ ] Weymouth
 - [ ] Worthing
 
-## Total Grounds: 0
+## Total Grounds: 91
 
 ## Accreditation 
 

@@ -11,18 +11,18 @@ A template for you to record which English football grounds you have watched gam
 - [ ] Bournemouth
 - [ ] Brentford
 - [ ] Brighton
+- [ ] Burnley
 - [ ] Chelsea
 - [ ] Crystal Palace
 - [ ] Everton
 - [ ] Fulham
-- [ ] Leeds
-- [ ] Leicester
 - [ ] Liverpool
+- [ ] Luton
 - [ ] Man City
 - [ ] Man Utd
 - [ ] Newcastle
 - [ ] Nott'm Forest
-- [ ] Southampton
+- [ ] Sheffield Utd
 - [ ] Tottenham
 - [ ] West Ham
 - [ ] Wolverhampton
@@ -31,85 +31,86 @@ A template for you to record which English football grounds you have watched gam
 
 - [ ] Birmingham
 - [ ] Blackburn
-- [ ] Blackpool
 - [ ] Bristol City
-- [ ] Burnley
 - [ ] Cardiff
 - [ ] Coventry
 - [ ] Huddersfield
 - [ ] Hull
-- [ ] Luton
+- [ ] Ipswich
+- [ ] Leeds
+- [ ] Leicester
 - [ ] Middlesbrough
 - [ ] Millwall
 - [ ] Norwich
+- [ ] Plymouth
 - [ ] Preston
 - [ ] QPR
-- [ ] Reading
 - [ ] Rotherham
-- [ ] Sheffield Utd
+- [ ] Sheff Wed
+- [ ] Southampton
 - [ ] Stoke
 - [ ] Sunderland
 - [ ] Swansea
 - [ ] Watford
 - [ ] West Brom
-- [ ] Wigan
 
 # League One
 
-- [ ] Accrington Stanley
 - [ ] Barnsley
+- [ ] Blackpool
 - [ ] Bolton
 - [ ] Bristol Rovers
 - [ ] Burton Albion
 - [ ] Cambridge Utd
+- [ ] Carlisle
 - [ ] Charlton
 - [ ] Cheltenham
 - [ ] Derby
 - [ ] Exeter
 - [ ] Fleetwood Town
-- [ ] Forest Green
-- [ ] Ipswich
+- [ ] Leyton Orient
 - [ ] Lincoln City
-- [ ] MK Dons
-- [ ] Morecambe
+- [ ] Northampton
 - [ ] Oxford Utd
 - [ ] Peterborough
-- [ ] Plymouth
 - [ ] Port Vale
 - [ ] Portsmouth
-- [ ] Sheff Wed
+- [ ] Reading
 - [ ] Shrewsbury
+- [ ] Stevenage
 - [ ] Wycombe
+- [ ] Wigan
 
 # League Two
 
+- [ ] Accrington Stanley
 - [ ] AFC Wimbledon
 - [ ] Barrow
 - [ ] Bradford
-- [ ] Carlisle
 - [ ] Colchester
 - [ ] Crawley Town
 - [ ] Crewe
 - [ ] Doncaster
+- [ ] Forest Green
 - [ ] Gillingham
 - [ ] Grimsby
 - [ ] Harrogate Town
-- [ ] Hartlepool
-- [ ] Leyton Orient
 - [ ] Mansfield
+- [ ] MK Dons
+- [ ] Morecambe
 - [ ] Newport County
-- [ ] Northampton
-- [ ] Rochdale
+- [ ] Notts County
 - [ ] Salford
-- [ ] Stevenage
 - [ ] Stockport
 - [ ] Sutton Utd
 - [ ] Swindon
 - [ ] Tranmere
 - [ ] Walsall
+- [ ] Wrexham
 
 # National League
 
+- [ ] AFC Fylde
 - [ ] Aldershot
 - [ ] Altrincham
 - [ ] Barnet
@@ -119,32 +120,29 @@ A template for you to record which English football grounds you have watched gam
 - [ ] Dagenham
 - [ ] Dorking Wanderers
 - [ ] Eastleigh
+- [ ] Ebbsfleet United
 - [ ] FC Halifax
+- [ ] Hartlepool
 - [ ] Gateshead
+- [ ] Kidderminster
 - [ ] Maidenhead Utd
-- [ ] Maidstone United
-- [ ] Notts County
 - [ ] Oldham
-- [ ] Scunthorpe
+- [ ] Oxford City
+- [ ] Rochdale
 - [ ] Solihull Moors
 - [ ] Southend
-- [ ] Torquay
 - [ ] Wealdstone
 - [ ] Woking
-- [ ] Wrexham
-- [ ] Yeovil
 - [ ] York
 
 # National League North
 
-- [ ] AFC Fylde
-- [ ] AFC Telford
 - [ ] Alfreton Town
 - [ ] Banbury Utd
+- [ ] Bishop's Stortford
 - [ ] Blyth Spartans
 - [ ] Boston Utd
 - [ ] Brackley
-- [ ] Bradford PA
 - [ ] Buxton
 - [ ] Chester
 - [ ] Chorley
@@ -153,41 +151,43 @@ A template for you to record which English football grounds you have watched gam
 - [ ] Farsley Celtic
 - [ ] Gloucester
 - [ ] Hereford
-- [ ] Kettering
-- [ ] Kidderminster
 - [ ] Kings Lynn Town
-- [ ] Leamington
 - [ ] Peterborough Sports
+- [ ] Rushall Olympic
 - [ ] Scarborough Athletic
+- [ ] Scunthorpe
 - [ ] Southport
+- [ ] South Shields
 - [ ] Spennymoor Town
+- [ ] Tamworth
+- [ ] Warrington Town
 
 # National League South
 
+- [ ] Aveley
 - [ ] Bath City
 - [ ] Braintree Town
 - [ ] Chelmsford
-- [ ] Cheshunt
 - [ ] Chippenham
-- [ ] Concord Rangers
 - [ ] Dartford
 - [ ] Dover
-- [ ] Dulwich Hamlet
 - [ ] Eastbourne Boro
-- [ ] Ebbsfleet United
 - [ ] Farnborough
 - [ ] Hampton and Richmond
 - [ ] Havant and Waterlooville
 - [ ] Hemel
-- [ ] Hungerford
-- [ ] Oxford City
+- [ ] Maidstone United
 - [ ] Slough Town
 - [ ] St Albans
 - [ ] Taunton Town
 - [ ] Tonbridge Angels
+- [ ] Torquay
+- [ ] Truro City
 - [ ] Welling
+- [ ] Weston-super-Mare
 - [ ] Weymouth
 - [ ] Worthing
+- [ ] Yeovil
 
 ## Total Grounds: 0
 

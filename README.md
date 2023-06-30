@@ -1,6 +1,6 @@
 # football-grounds-visited
 
-A template for you to record which English football grounds you have watched game at. The leagues are based on the 2022-2023 season.
+A template for you to record which English football grounds you have watched games at. The leagues are based on the 2023-2024 season.
 
 > Tick the box with an `'x'` if you have visited at least one home match on a ground used by the club on that row.
 

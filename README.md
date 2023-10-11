@@ -15,7 +15,7 @@ A template for you to record which English football grounds you have watched gam
 - [x] Crystal Palace
 - [ ] Everton
 - [x] Fulham
-- [ ] Leeds
+- [x] Leeds
 - [x] Leicester
 - [x] Liverpool
 - [x] Man City
@@ -185,7 +185,7 @@ A template for you to record which English football grounds you have watched gam
 - [ ] St Albans
 - [ ] Taunton Town
 - [ ] Tonbridge Angels
-- [ ] Welling
+- [x] Welling
 - [ ] Weymouth
 - [ ] Worthing
 

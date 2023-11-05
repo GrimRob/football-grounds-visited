@@ -181,7 +181,7 @@ A template for you to record which English football grounds you have watched gam
 - [ ] Hemel
 - [ ] Hungerford
 - [ ] Oxford City
-- [ ] Slough Town
+- [x] Slough Town
 - [ ] St Albans
 - [ ] Taunton Town
 - [ ] Tonbridge Angels
@@ -189,7 +189,7 @@ A template for you to record which English football grounds you have watched gam
 - [ ] Weymouth
 - [ ] Worthing
 
-## Total Grounds: 91
+## Total Grounds: 94
 
 ## Accreditation 
 
